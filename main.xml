@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:text="@string/register" />
+
+String tempString="Copyright";
+TextView text=(TextView)findViewById(R.id.text);
+SpannableString spanString = new SpannableString(tempString);
+spanString.setSpan(new UnderlineSpan(), 0, spanString.length(), 0);
+spanString.setSpan(new StyleSpan(Typeface.BOLD), 0, spanString.length(), 0);
+spanString.setSpan(new StyleSpan(Typeface.ITALIC), 0, spanString.length(), 0);
+text.setText(spanString);
