@@ -8,3 +8,4 @@ tv.setTypeface(null, Typeface.BOLD);
 tv.setTypeface(null, Typeface.ITALIC);
 // AND
 tv.setPaintFlags(tv.getPaintFlags()|Paint.UNDERLINE_TEXT_FLAG);
+(ll, Typeface.ITALIC);
