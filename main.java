@@ -1,3 +1,15 @@
+let a, b, c;
+a = 5;
+b = 6;
+c = a + b;
+document.getElementById("demo1").innerHTML = c;
+
+let a2, b2, c2;
+a2 = 52;
+b2 = 63;
+c2 = a + b;
+document.getElementById("demo12").innerHTML = c; 
+
 TextView tv = (TextView)findViewById(R.id.textViewOne);
 tv.setTypeface(null, Typeface.BOLD_ITALIC);
 // OR
