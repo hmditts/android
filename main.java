@@ -8,6 +8,7 @@ let a2, b2, c2;
 a2 = 522;
 b2 = 263;
 c2 = a + b;
+d2= 87;
 document.getElementById("demo12").innerHTML = c; 
 
 TextView tv = (TextView)findViewById(R.id.textViewOne);
