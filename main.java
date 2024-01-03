@@ -1,4 +1,4 @@
-let a, b, c;
+let a, b, c, d;
 a = 5;
 b = 6;
 c = a + b;
