@@ -1,5 +1,5 @@
 let a, b, c, d , p43p;
-a = 522;
+a = 52+2;
 b = 6;
 c = a + b;
 document.getElementById("demo1").innerHTML = c;
