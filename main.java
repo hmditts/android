@@ -1,4 +1,4 @@
-let a, b, c, d , p43p;
+let a, b, c, d , pp;
 a = 52;
 b = 6/2;
 c = a + b;
