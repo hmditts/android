@@ -1,4 +1,4 @@
-let a, b, c, d , pp;
+let a, b, c, d ;
 a = 52;
 b = 6/2;
 c = a + b;
