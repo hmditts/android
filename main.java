@@ -1,5 +1,5 @@
 let a, b, d ;
-a = 52;
+a = 2;
 b = 6/2;
 c = a + b;
 document.getElementById("demo1").innerHTML = c;
