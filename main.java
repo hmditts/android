@@ -1,6 +1,6 @@
 let a, b, d ;
 a = 27;
-b = 6;
+b = 688;
 c = a + b;
 document.getElementByd("dm1").innerHTML = c;
 
