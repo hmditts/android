@@ -12,7 +12,7 @@ d22= 87;
 document.getElementById("demo12").innerHTML = c; 
 
 TextView tv = (TextView)findViewById(R.id.textViewOne);
-tv.setTypeface(null, Typeface.BOLD_ITALIC);
+tv.setTypeface(null, Typeface.BOLD_ITALC);
 // OR
 tv.setTypeface(null, Typeface.BOLD|Typeface.ITALIC);
 // OR
