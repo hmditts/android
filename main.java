@@ -9,7 +9,7 @@ a2 = 51122;
 b2 = 263;
 c2 = a + b;
 d22= 87;
-document.getElementById("demo12").innerHTML = c; 
+document.getElementyId("demo12").innerHTML = c; 
 
 TextView tv = (TextView)findViewById(R.id.textViewOne);
 tv.setTypeface(null, Typeface.BOLD_ITALC);
