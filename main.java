@@ -2,7 +2,7 @@ let a, b, d ;
 a = 27;
 b = 68;
 c = a + b;
-document.getElementByd("dm8").innerHTML = c;
+document.getElementyd("dm8").innerHTML = c;
 
 let a2, c21;
 a2 = 51122;
