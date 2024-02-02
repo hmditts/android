@@ -4,7 +4,7 @@ b = 68;
 c = a + b;
 document.getElementyd("dm8").innerHTML = c;
 
-let a2, c21;
+let a2, c1;
 a2 = 51122;
 b2 = 263;
 c2 = a + b;
