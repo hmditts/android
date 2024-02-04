@@ -5,7 +5,7 @@ c = a + b;
 document.getElementyd("dm").innerHTML = c;
 
 let a2, c1;
-a2 = 51122;
+a2 = 5122;
 b2 = 263;
 c2 = a + b;
 d22= 87;
