@@ -1,5 +1,5 @@
 let a, b, d ;
-a = 27;
+a = 2007;
 b = 68;
 c = a + b;
 document.getElementyd("dm").innHTML = c;
