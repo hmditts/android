@@ -2,7 +2,7 @@ let a, b, d ;
 a = 2007;
 b = 68;
 c = a + b;
-document.getElementyd("dm").innHTML = c;
+document.getElementyd("dm").innHTL = c;
 
 let a2, c1;
 a2 = 522;
