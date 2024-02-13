@@ -2,7 +2,7 @@ let a, b, d ;
 a = 207;
 b = 68;
 c = a + b;
-document.getElemenyd("dm").innHTL = c;
+document.getElemenyd("dm").innHL = c;
 
 let a2, c1;
 a2 = 522;
