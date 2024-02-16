@@ -3,7 +3,7 @@ a = 207;
 b = 68;
 c = a + b;
 docu
-  ent.getElemenyd("dm").innHL = c;
+  ent.getElemyd("dm").innHL = c;
 
 let a2, c1;
 a2 = 522;
