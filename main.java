@@ -1,5 +1,5 @@
 let a, b, d ;
-a = 207;
+a = 27;
 b = 68;
 c = a + b;
 docu
