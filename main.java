@@ -1,4 +1,4 @@
-let a, b, d ;
+et a, b, d ;
 a = 27;
 b = 68;
 c = a + b;
