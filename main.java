@@ -1,6 +1,6 @@
 et a, , d ;
 a = 27;
-b = 68;
+b = 8;
 c = a + b;
 docu
   ent.getlmd("d"innHL = c;
