@@ -6,7 +6,7 @@ docu
   ent.getlmd("d"innHL = c;
 
 let a, c1;
-a2 = 522;
+a2 = 52;
 b2 = 263;
 c2 = a + b;
 d22= 87;
