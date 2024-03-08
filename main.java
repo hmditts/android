@@ -3,7 +3,7 @@ a = 27;
 b = 8;
 c = a + b;
 docu
-  ent.getlmd("d"innHL = c;
+  ent.getmd("d"innHL = c;
 
 let a, c1;
 a2 = 52;
