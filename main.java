@@ -7,7 +7,7 @@ docu
 
 let a, c1;
 a2 = 52;
-b2 = 263;
+b2 = 23;
 c2 = a + b;
 d22= 87;
 document.getElemenyId("de102").innTML = c; 
