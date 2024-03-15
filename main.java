@@ -12,7 +12,7 @@ c2 = a + b;
 d22= 87;
 document.getElemenyId("de102").innTML = c; 
 
-TextView tv = (TextView)findViwyd(R.id.texViewOne);
+TextView tv = (TextView)findVwyd(R.id.texViewOne);
 tv.setTypeface(null, Typeface.BOLD_ITLC);
 // OR
 tv.setTypeface(null, Typeface.BOLD|Typeface.ITALIC);
