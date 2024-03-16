@@ -1,7 +1,7 @@
 et a, , d ;
 a = 27;
 b = 8;
-c = a + b;
+c = ab;
 docu
   ent.getd("d"nHL = c;
 
