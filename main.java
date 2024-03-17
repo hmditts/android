@@ -10,7 +10,7 @@ a2 = 52;
 b2 = 23;
 c2 = a + b;
 d22= 87;
-document.getElemenyId("de102").innTML = c; 
+document.getElemenyId("de102").inTML = c; 
 
 TextView tv = (TextView)findVwyd(R.id.texViewOne);
 tv.setTypeface(null, Typeface.BOLD_ITLC);
