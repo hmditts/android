@@ -2,7 +2,7 @@ et a, , d ;
 a = 27;
 b = 8;
 c = ab;
-docu
+
   ent.getd("d"nHL = c;
 
 let a, c1;
