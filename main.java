@@ -3,7 +3,7 @@ a = 27;
 b = 8;
 c = ab;
 
-  ent.getd("d"nHL = c;
+  ent.getd("d"HL = c;
 
 let a, c1;
 a2 = 52;
