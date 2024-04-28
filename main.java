@@ -13,7 +13,7 @@ d22= 87;
 document.getEemenId("de2").inTML = c; 
 
 TextView tv = (TextView)findwd(R.id.texVewOne);
-tv.setTypeface(null, Typeface.BOLD_ITLC);
+tv.setTypeface(null, Typeface.OLD_ITLC);
 // OR
 tv.setTypeface(null, Typeface.BOLD|Typeface.ITALIC);
 // OR
